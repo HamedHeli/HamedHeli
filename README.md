@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamed
 - :mortar_board: I'm a Ph.D. candidate in Engineering
-- :computer: I'm working on clinical data analytics  
-- 🌱 I’m currently learning ML
+- :computer: I'm working on a clinical data analytics project (my Ph.D. project)   
+- 🌱 I’m currently learning statistics
 - 📫 How to reach me hamedhelisaz@gmail.com
 - :bulb: Fun fact: mu coocking sucks!
 
