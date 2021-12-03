@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Hamed
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Data Analysis 
-- 💞️ I’m looking to collaborate on Data Analysis Projects
-- :bar_chart: I am putting my Tableau visualization [here](https://public.tableau.com/app/profile/hamed7970#!/?newProfile=&activeTab=0)
+- :mortar_board: I'm a Ph.D. candidate in Engineering
+- :computer: I'm working on clinical data analytics  
+- 🌱 I’m currently learning ML
 - 📫 How to reach me hamedhelisaz@gmail.com
+- :bulb: Fun fact: mu coocking sucks!
 
 
 <!---
