@@ -3,7 +3,7 @@
 - :computer: I'm working on a clinical data analytics project (my Ph.D. project)   
 - 🌱 I’m currently learning statistics
 - 📫 How to reach me hamedhelisaz@gmail.com
-- :bulb: Fun fact: mu coocking sucks!
+- :bulb: Fun fact: my coocking sucks!
 
 
 <!---
