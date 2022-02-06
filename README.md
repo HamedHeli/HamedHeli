@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamed
 - :mortar_board: I'm a Ph.D. candidate in Engineering
-- :computer: I'm working on my Ph.D. project, which is analyzing clinical data on prostate cancer   
-- 🌱 I’m currently learning statistics
+- :computer: I'm working on my Ph.D. project, which is analyzing clinical data   
+- 🌱 I’m currently learning advanced statistics
 - 📫 How to reach me: hamedhelisaz@gmail.com
 - :bulb: Fun fact: my coocking sucks!
 
