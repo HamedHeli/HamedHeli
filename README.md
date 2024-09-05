@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hamed
-- :mortar_board: I'm a Ph.D. candidate in Engineering
-- :computer: I'm working on my Ph.D. project, which is analyzing clinical data   
+- :mortar_board: I have a Ph.D. in Applied Science: I used GLM to predict prostate cancer
+- :computer: I'm working as a Data Scientist in BC Assessment   
 - 🌱 I’m currently learning advanced statistics
 - 📫 How to reach me: hamedhelisaz@gmail.com
 - :bulb: Fun fact: my coocking sucks!
