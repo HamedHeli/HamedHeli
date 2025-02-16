@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamed
 - :mortar_board: I have a Ph.D. in Applied Science: In PhD, I used GLM to predict prostate cancer
+- 🌱 I’m also M.Sc. student in Stat at UBC: I am learning Deep Learning 
 - :computer: I'm working as a Data Scientist in BC Assessment   
-- 🌱 I’m also M.Sc. student in Stat at UBC: I am learning Statistical Learning 
 - 📫 How to reach me: hamedhelisaz@gmail.com
 - :bulb: Fun fact: my coocking sucks!
 
